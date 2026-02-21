@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Copy of 我的",
+  "description": "An interactive vocabulary learning tool that extracts words from images, provides multi-language speech, and interactive spelling practice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
